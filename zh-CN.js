@@ -4,6 +4,7 @@ export default {
         "select_all": "全选",
         "deselect_all": "全不选",
         "close": "关闭",
+        "close_window": "关闭此窗口",
         "move_left": "左移",
         "move_right": "右移",
         "edit": "编辑",
@@ -16,6 +17,7 @@ export default {
         "mode_switch": "是否进入/退出编辑模式？", //是否进入/退出编辑模式
     },
     "tabs": {
+        "exploration_note": "探索笔记",
         "by_category": "分类",
         "by_item": "物品",
         "by_search": "搜索",
@@ -151,6 +153,7 @@ export default {
 
     },
     "marker_dialog": {
+        "mark_completed": "标记完成 (记录探索过的标记)",
         "no_marker_img": "暂无标记配图",
         "delete_markder": "删除标记",
         "undelete": "恢复标记",
