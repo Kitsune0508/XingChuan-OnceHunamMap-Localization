@@ -167,7 +167,7 @@ export default {
         "timer_title": "箱子定时器",
         "timer_title_not_login": "(需登录) 箱子定时器",
         "deviant_timer_title": "收容物定时器",
-        "to_login": "前往登录以使用定时功能",
+        "to_login": "前往登录免费云同步记录",
         "comment": "余音",
         "auto_set_timer": "自动设置定时器",
         "auto_set_timer_not_login": "(需登录) 自动设置定时器",

@@ -103,6 +103,7 @@ export default {
     非正常收容: "Deviation: Survive",
     乐园岛: "Paradise Island",
     污染区: "Pollution Zones",
+    禁忌岛: "Isles of the Abyss",
     tool_box: "Toolbox",
     about_website: "About"
   },
@@ -185,7 +186,7 @@ export default {
     timer_title: "Crate Reset Timer",
     timer_title_not_login: "(Need Login) Crate Reset Timer",
     deviant_timer_title: "Deviant Reset Timer",
-    to_login: "Login to Unlock Timer Feature",
+    to_login: "Go to Login for Free Cloud Sync Records",
     comment: "Comments",
     auto_set_timer: "Auto Set Timer",
     auto_set_timer_not_login: "(Need Login) Auto Set Timer",
@@ -1665,6 +1666,7 @@ export default {
     "蛮荒地带": "Wild Deviant",
     "幻境地带": "Mirror Deviant",
     "虚实地带": "Phantasmal Deviant",
-    "文明遗产": "Cultural Artifacts"
+    "文明遗产": "Cultural Artifacts",
+    禁忌岛: "Isles of the Abyss",
   },
 };
